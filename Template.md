@@ -11,15 +11,15 @@
 
 ###İndirme Adresleri
 
-Windows: [İndir 32bit](https://vivaldi.com/download/download.php?f=Vivaldi.1.0.118.2.exe) | [İndir 64bit](https://vivaldi.com/download/download.php?f=Vivaldi.1.0.118.2.x64.exe)(deneysel aşamada)
+Windows: [İndir 32bit](#) | [İndir 64bit](#)
 
-Mac: [İndir](https://vivaldi.com/download/download.php?f=Vivaldi.1.0.118.2.dmg)
+Mac: [İndir](#)
 
-Linux Deb: [İndir 64bit](https://vivaldi.com/download/download.php?f=vivaldi-snapshot_1.0.118.2-1_amd64.deb) | [İndir 32bit](https://vivaldi.com/download/download.php?f=vivaldi-snapshot_1.0.118.2-1_i386.deb)
+Linux Deb: [İndir 64bit](#) | [İndir 32bit](#)
 
-Linux RPM: [İndir 64bit](https://vivaldi.com/download/download.php?f=vivaldi-snapshot-1.0.118.2-1.x86_64.rpm) | [İndir 32bit](https://vivaldi.com/download/download.php?f=vivaldi-snapshot-1.0.118.2-1.i386.rpm)
+Linux RPM: [İndir 64bit](#) | [İndir 32bit](#)
 
-Sürüm ile ilgili yayınlan yazıya ve tüm değişiklik listesine **[buradan](https://vivaldi.net/blogs/teamblog/item/11-snapshot-1-0-118-2)** ulaşabilirsiniz.
+Sürüm ile ilgili yayınlan yazıya ve tüm değişiklik listesine **[buradan](#)** ulaşabilirsiniz.
 
 Not: Bu sürümle ilgili tüm olumlu/olumsuz görüşlerinizi buradan yahut **[Vivaldi Türkçe Forumları](https://vivaldi.net/forum/turkish)** üzerinden bizlere iletebilirsiniz.
 
